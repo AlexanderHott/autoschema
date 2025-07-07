@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "age": 30
+  },
+  {
+    "user_id": "2b",
+    "full_name": "Bob Smith",
+    "contact": {
+      "email": "bob@example.com",
+      "phone": "123-456-7890"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "active": true,
+    "signup_date": "2023-01-15"
+  },
+  {
+    "name": null,
+    "email": "unknown@example.com",
+    "metadata": {
+      "notes": ["missing id", "name is null"],
+      "verified": false
+    }
+  }
+]
